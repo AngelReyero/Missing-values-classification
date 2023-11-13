@@ -1,4 +1,5 @@
 # Missing-values-classification
+*July 2023*
 Statistical theory applied to accommodate missing data for predictive modeling within a classification framework. Research conducted during my in first year MSc internship at the Laboratoire de Probabilités, Statistique et Modélisation (LPSM) at Sorbonne University.
 
 This research was conducted under the supervision of Alexis Ayme, Claire Boyer, Aymeric Dieuleveut, and Erwan Scornet, with corrections provided by Christine Keribin from Paris-Saclay University.
